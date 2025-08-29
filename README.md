@@ -21,5 +21,9 @@ This project demonstrates the process of cleaning and transforming messy car sal
 - **Analytical Thinking**: Including salesperson commission and warranty logic for deeper insights.  
 - **Data Structuring**: Preparing data for potential dashboards or further BI analysis.  
 
-## 📷 Project Snapshot  
-![Car Sales Data](car_sales_revenue.png)  
+## 📷 Before the fix (Project Shot) 
+![Car Sales Data](car_sales_revenue2.png)
+
+## 📷 After the fix (Project Shot) 
+![Car Sales Data](car_sales_revenue.png)
+
