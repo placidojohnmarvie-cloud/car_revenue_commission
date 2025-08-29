@@ -1,0 +1,101 @@
+Customer Name,Car Model,Purchase Date,Price,Payment Method,Salesperson,Warranty Included
+Customer_1,Corolla - Toyota,2022-01-26,1013575,Loan,Alice,no
+Customer_2,Corolla - Toyota,28/08/2023,562489,cash,Alice,yes
+Customer_3,Civic Honda,2023-10-28,1379796,credit card,Charlie,Yes
+Customer_4,Honda Civic,16/12/2023,1082738,loan,Charlie,Yes
+Customer_5,Corolla - Toyota,25/01/2023,"$1,221,327",loan,Alice,no
+Customer_6,Mirage - Mitsu,04/07/2023,1293844,CASH,Charlie,yes
+Customer_7,Civic Honda,23/12/2023,1886769,CASH,Alice,No
+Customer_8,Corolla - Toyota,25/01/2023,"$1,833,126",cash,Charlie,Y
+Customer_9,Civic Honda,18/11/2023,"$1,933,503",credit card,Bob,yes
+Customer_10,Civic Honda,17/06/2022,"$1,066,121",Loan,Bob,no
+Customer_11,Ranger Ford,27/02/2022,"$567,319",Credit,Charlie,Yes
+Customer_12,Civic Honda,2023-08-04,1159927,Credit,Diana,no
+Customer_13,Mirage - Mitsu,27/05/2022,"$1,017,215",credit card,Charlie,no
+Customer_14,Mitsubishi Mirage,21/08/2023,"$959,948",cash,Diana,Yes
+Customer_15,Toyota Corolla,23/04/2022,"$835,506",Credit,Alice,N
+Customer_16,Mitsubishi Mirage,2023-09-03,1609633,credit card,Alice,no
+Customer_17,Corolla - Toyota,2023-11-30,"$1,059,572",CASH,Alice,Y
+Customer_18,Mitsubishi Mirage,11/06/2022,"$1,052,366",loan,Bob,yes
+Customer_19,Corolla - Toyota,03/10/2023,"$1,839,974",cash,Bob,Y
+Customer_20,Honda Civic,2023-07-07,"$1,612,232",credit card,Charlie,N
+Customer_21,Toyota Corolla,2022-04-25,1144903,cash,Alice,Yes
+Customer_22,Mirage - Mitsu,2022-03-12,"$1,617,165",cash,Diana,yes
+Customer_23,Honda Civic,2022-09-29,1772119,cash,Bob,no
+Customer_24,Ford Ranger,2023-02-13,1862893,credit card,Diana,Yes
+Customer_25,Civic Honda,19/08/2022,"$544,112",cash,Bob,Yes
+Customer_26,Corolla - Toyota,2023-12-26,980125,Cash,Charlie,Yes
+Customer_27,Civic Honda,2022-10-13,"$949,287",Loan,Diana,No
+Customer_28,Mirage - Mitsu,21/02/2023,"$703,278",CASH,Diana,N
+Customer_29,Mirage - Mitsu,2022-02-25,1855137,Credit,Charlie,Yes
+Customer_30,Civic Honda,16/07/2022,1440810,cash,Charlie,N
+Customer_31,Civic Honda,19/03/2022,1654115,Loan,Alice,Yes
+Customer_32,Civic Honda,20/06/2022,1509481,Credit,Alice,No
+Customer_33,Mitsubishi Mirage,2022-01-03,"$1,056,171",loan,Diana,Y
+Customer_34,Mitsubishi Mirage,2023-12-15,"$1,665,530",Credit,Bob,No
+Customer_35,Ford Ranger,2022-08-11,"$1,714,629",Cash,Charlie,Yes
+Customer_36,Toyota Corolla,22/08/2023,1613852,credit card,Alice,No
+Customer_37,Corolla - Toyota,02/09/2023,993258,credit card,Bob,yes
+Customer_38,Toyota Corolla,27/09/2023,"$1,878,611",credit card,Charlie,Y
+Customer_39,Civic Honda,2023-11-17,1000560,cash,Charlie,N
+Customer_40,Ranger Ford,16/03/2022,"$1,802,665",Cash,Alice,yes
+Customer_41,Civic Honda,03/06/2023,"$1,231,924",cash,Charlie,Y
+Customer_42,Honda Civic,2023-03-25,1975430,loan,Alice,no
+Customer_43,Ford Ranger,11/11/2023,781628,Cash,Bob,Y
+Customer_44,Ford Ranger,12/09/2023,1219072,Loan,Charlie,yes
+Customer_45,Mirage - Mitsu,2022-09-15,606533,Credit,Charlie,Yes
+Customer_46,Toyota Corolla,2022-12-08,"$1,836,123",cash,Diana,yes
+Customer_47,Mitsubishi Mirage,29/07/2023,"$657,797",Loan,Bob,yes
+Customer_48,Toyota Corolla,2023-01-14,810575,Cash,Charlie,Y
+Customer_49,Toyota Corolla,02/01/2023,"$1,023,301",CASH,Diana,yes
+Customer_50,Honda Civic,2022-08-31,"$871,305",Cash,Bob,no
+Customer_51,Ranger Ford,2023-02-26,1020444,loan,Alice,N
+Customer_52,Toyota Corolla,27/04/2023,1465325,loan,Bob,No
+Customer_53,Toyota Corolla,07/11/2023,1188415,Cash,Charlie,Y
+Customer_54,Mitsubishi Mirage,2023-11-27,1624525,Cash,Alice,Y
+Customer_55,Honda Civic,2023-08-18,1056723,credit card,Diana,Y
+Customer_56,Ranger Ford,2023-03-23,1572531,credit card,Bob,Y
+Customer_57,Toyota Corolla,27/12/2023,"$1,590,351",credit card,Bob,Y
+Customer_58,Mitsubishi Mirage,2022-03-13,"$1,192,479",Loan,Alice,no
+Customer_59,Ford Ranger,04/06/2023,1356462,Loan,Charlie,yes
+Customer_60,Honda Civic,16/07/2022,"$1,295,125",cash,Charlie,N
+Customer_61,Toyota Corolla,08/11/2022,"$1,401,540",credit card,Charlie,N
+Customer_62,Mirage - Mitsu,2023-03-29,1572009,loan,Bob,no
+Customer_63,Corolla - Toyota,2022-10-18,"$1,827,373",Cash,Bob,no
+Customer_64,Ford Ranger,2022-08-19,809023,cash,Diana,yes
+Customer_65,Corolla - Toyota,12/04/2023,"$1,820,713",Loan,Diana,N
+Customer_66,Mitsubishi Mirage,07/09/2022,1942048,loan,Alice,N
+Customer_67,Civic Honda,2022-06-30,"$1,959,432",Cash,Bob,Yes
+Customer_68,Mirage - Mitsu,2022-05-17,"$1,900,011",credit card,Charlie,N
+Customer_69,Mitsubishi Mirage,16/07/2023,"$833,778",Credit,Diana,Y
+Customer_70,Civic Honda,15/10/2023,1593244,cash,Charlie,N
+Customer_71,Corolla - Toyota,01/01/2024,1069827,credit card,Alice,No
+Customer_72,Honda Civic,25/08/2022,"$820,455",Cash,Diana,N
+Customer_73,Ranger Ford,10/07/2023,630580,Credit,Diana,yes
+Customer_74,Toyota Corolla,13/08/2023,"$512,364",CASH,Diana,N
+Customer_75,Civic Honda,15/05/2023,1414014,Credit,Charlie,no
+Customer_76,Mitsubishi Mirage,2022-06-19,"$767,654",credit card,Alice,N
+Customer_77,Toyota Corolla,2022-03-27,"$784,582",cash,Alice,Y
+Customer_78,Mitsubishi Mirage,02/12/2022,1185445,Credit,Charlie,N
+Customer_79,Ford Ranger,25/03/2022,1631243,CASH,Bob,no
+Customer_80,Corolla - Toyota,30/10/2023,"$565,074",cash,Alice,yes
+Customer_81,Honda Civic,02/09/2022,1903956,cash,Diana,no
+Customer_82,Ford Ranger,13/01/2023,"$1,773,490",Loan,Alice,No
+Customer_83,Ford Ranger,2022-04-21,"$1,154,221",Credit,Diana,no
+Customer_84,Civic Honda,2022-03-19,1815422,Loan,Charlie,no
+Customer_85,Corolla - Toyota,2023-08-03,"$1,228,139",Loan,Charlie,Yes
+Customer_86,Ranger Ford,2022-01-13,1528027,CASH,Diana,no
+Customer_87,Honda Civic,22/03/2023,"$1,594,182",CASH,Diana,N
+Customer_88,Mitsubishi Mirage,30/08/2023,"$1,014,840",Cash,Charlie,N
+Customer_89,Civic Honda,2023-04-21,1901292,Cash,Diana,Y
+Customer_90,Honda Civic,15/05/2023,1041804,credit card,Charlie,yes
+Customer_91,Toyota Corolla,2023-06-14,679543,Credit,Diana,yes
+Customer_92,Civic Honda,09/12/2023,1992841,loan,Alice,Yes
+Customer_93,Ford Ranger,15/08/2022,1010247,credit card,Charlie,N
+Customer_94,Ranger Ford,2023-03-12,1654248,Loan,Diana,Y
+Customer_95,Ford Ranger,15/09/2022,903878,Loan,Bob,No
+Customer_96,Civic Honda,11/05/2023,"$1,736,453",credit card,Charlie,Yes
+Customer_97,Civic Honda,31/10/2022,876316,Loan,Bob,Y
+Customer_98,Toyota Corolla,2022-02-25,"$1,962,590",Loan,Diana,Yes
+Customer_99,Toyota Corolla,11/08/2023,1503936,cash,Alice,Y
+Customer_100,Mirage - Mitsu,2022-04-27,1340344,credit card,Alice,No
